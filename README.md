@@ -19,7 +19,9 @@ Assigned ID `[errata #xxxxx]`
 
 ```
 Erewhon Revisited Twenty Years Later, Both by the Original Discoverer of the Country and by His Son, by Samuel Butler
-    MONTH, YEAR  [EBook #1971]
+    Nov, 1999  [EBook #1971]
 
-
+      Line 4216 (text), line 3842 (html):
+        It a man and a woman might rise
+          "It" should be "If"
 ```
